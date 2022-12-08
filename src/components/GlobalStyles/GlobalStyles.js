@@ -67,6 +67,8 @@ html {
   --font-family-serif: ${FAMILIES.serif};
   --font-family-sans-serif: ${FAMILIES.sansSerif};
   --font-family-logo: ${FAMILIES.logo};
+
+  --gap-size: 1rem;
 }
 
 
